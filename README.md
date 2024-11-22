@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi, I'm Mahesh
 
 - 🔭 I’m currently working on my Portfolio Website
 - 🌱 I’m currently learning JavaScript Algorithms and Data Structures
