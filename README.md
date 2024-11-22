@@ -1,4 +1,4 @@
-# Hi, I'm Mahesh
+# Hi, you can call me Mahesh
 
 - 🔭 I’m currently working on my Portfolio Website
 - 🌱 I’m currently learning JavaScript Algorithms and Data Structures
