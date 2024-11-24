@@ -1,8 +1,8 @@
 ### Hi, I'm Mahesh
 
-- 🔭 I’m currently working on my Portfolio Website
-- 🌱 I’m currently learning JavaScript Algorithms and Data Structures
-- 👯 I’m looking to collaborate on AI Art
+&#8211; 🔭 I’m currently working on my Portfolio Website
+&#x2013; 🌱 I’m currently learning JavaScript Algorithms and Data Structures
+&ndash; 👯 I’m looking to collaborate on AI Art
 - 🤔 I’m looking for help with creating cool 3D Animations
 - 💬 Ask me about Uncharted & Film
 - 📫 How to reach me: smaheshram@yahoo.com
